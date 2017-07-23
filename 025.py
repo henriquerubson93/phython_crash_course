@@ -1,9 +1,9 @@
 nome = ['henrique','milena','miguel','sophia','angela','filipe']
 print(nome)
 
-print(sorted(nome))
-
-
+nome.sort(reverse=True)
 print(nome)
+
+
 
 

@@ -1,4 +1,5 @@
 nome = ['henrique','milena','miguel','sophia','angela','filipe']
-print(sorted(nome))
+nome.sort()
+print(nome)
 
-# sorted() exibi a lista em ordem alfabetica
+
